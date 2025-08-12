@@ -1,6 +1,6 @@
-# Neural-Network-for-Image-Recognition
-Neural Network for Image Recognition of Letters A, B, and C
 # neural-network-classifier
+
+Neural Network for Image Recognition of Letters A, B, and C
 
 ## Overview
 A minimal-from-scratch implementation of a feedforward neural network (one hidden layer) using NumPy to classify binary 5x6 pixel images of letters **A**, **B**, and **C**.
